@@ -1,0 +1,9 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 菩薩從兜術天降神母胎說廣普經
+#+DATE: 2015-08-30 20:04:43.020589
+#+PROPERTY: JUAN 0
+#+PROPERTY: ID KR6g0030
+#+PROPERTY: SOURCE 高麗藏 東國大學校影印本
+#+PROPERTY: BASEEDITION T
+#+PROPERTY: WITNESS TKD
+兠
